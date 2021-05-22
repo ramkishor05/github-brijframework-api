@@ -1,1 +1,1 @@
-# org.brijframework-base
+# github-brijframework-api
